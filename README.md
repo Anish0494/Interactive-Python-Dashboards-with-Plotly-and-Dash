@@ -2,7 +2,7 @@
 Making Interactive Dashboard using Plotly and Dash
 
 Required packages
->>NUMPY
->>PANDAS
->>PLOTLY
->>DASH
+>NUMPY
+>PANDAS
+>PLOTLY
+>DASH
